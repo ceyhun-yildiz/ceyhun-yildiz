@@ -6,7 +6,7 @@
 
   I've also helped many companies to create very popular, UK-based eCommerce websites, as well as a large amount of smaller, independent websites as well.
 
-  Other languages & technologies I've used and have experience with are - React.js, Node.js, Python, Solidity, MongoDB, PostgreSQL, HTML & CSS.
+  Other languages & technologies I've used and have experience with are - React.js, Node.js, Python, Solidity, Rest API, MongoDB, PostgreSQL, HTML & CSS.
 
 - 📫 How to reach me ... my work email is ceyhun.yildiz@gmx.co.uk
 
