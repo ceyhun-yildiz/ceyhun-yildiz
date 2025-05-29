@@ -4,7 +4,7 @@
 
   My specialities mainly gravitate around one central language (and my first love) - JavaScript. I've been programming with it for around 10 years and - as with any long-term relationship - have had the pleasure of seeing it's ugly side as well as it's beautiful side. So I know the pitfalls to avoid when using it, and pass these on when appropriate in my projects.
 
-  I've also helped many UK-based companies to create very popular, eCommerce websites, as well as a large amount of smaller, independent websites as well.
+  I've also helped many UK-based companies to create very popular, eCommerce websites, SaaS applications with millions of users, as well as a large amount of smaller, independent websites as well.
 
   Other languages & technologies I've used and have experience with are - React.js, React Native, Next.js, TypeScript, Node.js, Express.js, Python, Solidity, Rest API, MongoDB, PostgreSQL, HTML & CSS.
 
