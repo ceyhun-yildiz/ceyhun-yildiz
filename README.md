@@ -7,12 +7,19 @@
   I've built everything from high-traffic **eCommerce platforms** and **SaaS applications with millions of users**, to lean, efficient solutions for larger businesses and teams.
   
 - 🛠️ Tech I Work With
+
   Frontend: React.js, AngularJS, React Native, Next.js, HTML, CSS
+
   Backend: Node.js, Express.js, Fastify, NestJS
+
   Languages: JavaScript, TypeScript, Python, Solidity
+
   Databases: MySQL, PostgreSQL, MongoDB, Redis Stack
+
   Infrastructure: AWS, Google Cloud, Vercel, App Store, Play Store
+
   Architecture: REST APIs, WebSocket, SSEs, GraphQL, Microservices, Cloud-Native Development
+
   Other: Bash, GitHub Actions, CI/CD Workflows, Figma, Antigravity, MCPs, Docker, QR codes, TypeORM, Stripe
 
 - 📫 How to reach me ... my work email is ceyhun.yildiz@gmx.co.uk
