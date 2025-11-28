@@ -1,12 +1,20 @@
 - 👋 A Little About Me...
  
-  Hi, my name's Ceyhun Yildiz and since a young age I've had an obsession for nearly anything tech-related. I've been coding since about the age of 15 (half of my life, now...phew!) and have worked as a full-stack developer in various companies and industries.
+  Hi, my name's Ceyhun Yildiz, and I've been obsessed with technology for as long as I can remember. I wrote my first lines of code at 15, and I’ve been building full-stack products ever since—across startups, agencies, and scaling companies in multiple industries.
 
-  My specialities mainly gravitate around one central language (and my first love) - JavaScript. I've been programming with it for around 10 years and - as with any long-term relationship - have had the pleasure of seeing it's ugly side as well as it's beautiful side. So I know the pitfalls to avoid when using it, and pass these on when appropriate in my projects.
+  My core expertise revolves around **TypeScript and the modern web ecosystem**. After nearly a decade working with JS/TS in production, I’ve experienced both its elegance and its chaos. That experience helps me design clean architectures, avoid common pitfalls, and ship reliable, scalable software.
 
-  I've also helped many UK-based companies to create very popular, eCommerce websites, SaaS applications with millions of users, as well as a large amount of smaller, independent websites as well.
+  I've built everything from high-traffic **eCommerce platforms** and **SaaS applications with millions of users**, to lean, efficient solutions for larger businesses and teams.
+  
+- 🛠️ Tech I Work With
 
-  Other languages & technologies I've used and have experience with are - React.js, React Native, Next.js, TypeScript, Node.js, Express.js, Nest.js, Python, Solidity, Rest API, MongoDB, PostgreSQL, HTML & CSS.
+Frontend: React.js, AngularJS, React Native, Next.js, HTML, CSS
+Backend: Node.js, Express.js, Fastify, NestJS
+Languages: JavaScript, TypeScript, Python, Solidity
+Databases: MySQL, PostgreSQL, MongoDB, Redis Stack
+Infrastructure: AWS, Google Cloud, Vercel, App Store, Play Store
+Architecture: REST APIs, WebSocket, SSEs, GraphQL, Microservices, Cloud-Native Development
+Other: Bash, GitHub Actions, CI/CD Workflows, Figma, Antigravity, MCPs, Docker, QR codes, TypeORM, Stripe
 
 - 📫 How to reach me ... my work email is ceyhun.yildiz@gmx.co.uk
 
